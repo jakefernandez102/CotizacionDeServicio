@@ -1,0 +1,37 @@
+{
+  "name": "40-proyecto-calculadora-de-propinas-con-json-server",
+  "version": "1.0.0",
+  "description": "This is a mini project to generate a simple  API and compsume from it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakefernandez102/TipsCalculator.git"
+  },
+  "keywords": [
+    "API",
+    "JavaScript",
+    "HTML",
+    "Bootstrap",
+    "JSON-server"
+  ],
+  "author": "Jake Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakefernandez102/TipsCalculator/issues"
+  },
+  "homepage": "https://github.com/jakefernandez102/TipsCalculator#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.1.0"
+  }
+}
